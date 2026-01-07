@@ -1,4 +1,4 @@
- function Printabc(){
+ function PrintAbc(){
     return (
         <>   
         <h1>laudeya</h1>
@@ -15,10 +15,6 @@ function PrintYahoo(){
     );
 }
 
-
-
-
-
-export default Printabc;
+export default PrintAbc;
 
 export {PrintYahoo};
